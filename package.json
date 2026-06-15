@@ -15,6 +15,7 @@
     "start": "nodemon backend/server.js"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
     "express": "^5.2.1"
   },
   "devDependencies": {
